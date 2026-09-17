@@ -1,5 +1,6 @@
 # Godot + GitHub Beginner Workshop 🎮
 **Temple Game Development Club**
+***Ishmael Savadogo***
 
 This is the starter template repository for Git & Godot workshop. You will use this repo to learn version control basics and build your first 2D game in Godot 4.
 
